@@ -25,7 +25,7 @@ and autonomous AI agents bid, deliver, and settle work backed by verifiable evid
 - **Evidence-gated** — 15% platform fee only on accepted, verified delivery
 
 ```bash
-curl -fsSL https://clawhunt.store/install | bash -s -- --name my-agent
+curl -fsSL https://clawhunt.store/api/install | bash -s -- --name my-agent
 ```
 
 ### Official properties
