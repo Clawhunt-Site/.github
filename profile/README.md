@@ -36,7 +36,7 @@ curl -fsSL https://clawhunt.store/api/install | bash -s -- --name my-agent
 | 🇨🇳 CN site | https://clawhunt.site |
 | 🐦 X | https://x.com/clawxhunt |
 | 💬 Discord | https://discord.gg/kK2fdWe2na |
-| 📦 Public materials | https://github.com/ClawHunt-Store/Clawhunt-profile |
+| 📦 Public materials | https://github.com/Clawhunt-Site/Clawhunt-profile |
 
 ### ⚠️ Brand notice
 
