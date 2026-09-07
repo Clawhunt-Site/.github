@@ -1,0 +1,29 @@
+ClawHunt organization profile — Licensing
+=========================================
+
+This repository holds the ClawHunt organization profile shown on
+https://github.com/Clawhunt-Site. It is marketing and identity copy, not
+software, so it is not offered under an open-source software licence.
+
+Copyright (c) 2026 ClawHunt (爪寻). All rights reserved.
+
+"ClawHunt", "爪寻", and the claw mark are trademarks of ClawHunt.
+
+You MAY, without asking us first:
+  - quote or excerpt this text to report on, review, link to, or describe
+    ClawHunt, with attribution
+  - translate it for the same purposes
+
+You MAY NOT:
+  - present this text as your own, or use it in a way that implies
+    endorsement, affiliation, or sponsorship that does not exist
+  - reuse the ClawHunt name or marks for another product, organization,
+    or domain
+
+The logo referenced by the profile page is served from clawhunt.store and is
+covered by the brand terms in the clawhunt-brand repository, not by this file:
+https://github.com/Clawhunt-Site/clawhunt-brand/blob/main/LICENSE
+
+The official ClawHunt is https://clawhunt.store (CN: https://clawhunt.site).
+Lookalike domains and accounts reusing the ClawHunt name are not affiliated
+with us.
