@@ -22,9 +22,14 @@ You MAY NOT:
   - reuse the ClawHunt name or marks for another product, organization,
     or domain
 
-The logo referenced by the profile page is served from clawhunt.store and is
-covered by the brand terms in the clawhunt-brand repository, not by this file:
+The pictures under profile/assets are part of that copy and are covered by
+the terms above. The ClawHunt logo and wordmark shown in them are covered by
+the brand terms in the clawhunt-brand repository, not by this file:
 https://github.com/Clawhunt-Site/clawhunt-brand/blob/main/LICENSE
+
+The pictures are set in Mona Sans (Copyright 2022 The Mona Sans Project
+Authors, SIL Open Font License 1.1, https://github.com/github/mona-sans).
+The font file itself is not distributed in this repository.
 
 The official ClawHunt is https://clawhunt.store (CN: https://clawhunt.site).
 Lookalike domains and accounts reusing the ClawHunt name are not affiliated
